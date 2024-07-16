@@ -71,11 +71,11 @@ npm run dev
 
 ### Tela de Listagem
 
-![Tela de Listagem](./screenshots/listagem.png)
+![Tela de Listagem](https://github.com/user-attachments/assets/2627fc36-7ba1-4515-80fb-01199f41e4d7)
 
 ### Tela de Criação
 
-![Tela de Criação](./screenshots/criacao.png)
+![Tela de Criação](https://github.com/user-attachments/assets/337af4b1-7d59-4a1b-b2e5-fa600758479e)
 
 ## Contato
 
